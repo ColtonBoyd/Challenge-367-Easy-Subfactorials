@@ -1,0 +1,7 @@
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\bin\Debug\Challenge 367 Easy Subfactorials.exe.config
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\bin\Debug\Challenge 367 Easy Subfactorials.exe
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\bin\Debug\Challenge 367 Easy Subfactorials.pdb
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\obj\Debug\Challenge 367 Easy Subfactorials.csprojAssemblyReference.cache
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\obj\Debug\Challenge 367 Easy Subfactorials.csproj.CoreCompileInputs.cache
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\obj\Debug\Challenge 367 Easy Subfactorials.exe
+D:\Repos\Challenge 367 Easy Subfactorials\Challenge 367 Easy Subfactorials\obj\Debug\Challenge 367 Easy Subfactorials.pdb
